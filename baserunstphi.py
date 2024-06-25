@@ -60,7 +60,7 @@ def rag_chain(question, retriever):
 st.title("Karma Bot (Powered by Phi3)") 
 
 # Load documents and set up the database only once
-documents = load_documents("C:\\Users\\MSI GAMING\\OneDrive\\Desktop\\KarmaBot\\RagTextFiles")
+documents = load_documents("RagTextFiles")
 split_docs = split_documents(documents)
 embeddings = create_embeddings("llama3")
 db = create_db(split_docs, embeddings)
