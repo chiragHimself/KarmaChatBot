@@ -1,0 +1,51 @@
+What is Karma Points?
+We created Karma Points as a platform for NGOs and charities to connect with all you beautiful souls and virtuous institutions to showcase their work and to seek help. Currently, our member NGOs can use KPs platform to raise money for their work and in the subsequent versions, recruit volunteers and arrange donation drives as well.Karma Points is a platform that rewards people for doing good deeds. The more you give, the more you get. It is our mission to make sure that giving becomes a regular habit and not just a sporadic ‘act’.
+
+Story of karma points : Karma Points was conceived during a heated argument between 3 people of how they would like to change the world. There were so many problems to solve and no single solution addresses all of the problems. So, we realised that instead of trying to do everything ourselves, we should give a platform to kind and like-minded people who want to solve problems with us.
+
+Karma Points Physical Office location is F9, Tower 15, Type 3, East Kidwai Nagar, New Delhi - 110023
+It has a proper office that is functional and located at F9, Tower 15, Type 3, East Kidwai Nagar, New Delhi - 110023
+How Karma Points works? : 1)Verified Charities post goals
+Out of lacs of charities, we handpick the most able, efficient and transparent charities through a rigorous background check. These charities post requirement for funds or volunteers as goals.     2)Donors choose and contribute
+Out of hundreds of goals, donors select the ones they relate to the most and make their contribution. They can contribute their money by donating or their time by volunteering.    3) Every contribution is rewarded
+For each contribution, donors get karma points. They use these points to avail exclusive discounts, freebies and experiences provided our woke brand partners.     4) The world become a bit better
+Every little contribution helps someone in need and makes the world a better place. Every contribution, fulfils our dream, one step at a time.
+
+
+Android app beta: https://play.google.com/store/apps/details?id=com.karmapointsusers
+
+
+What kinds of Goals can I participate in?
++
+While we have tons of things planned for the future, but in this version, you can start contributing to different funding Goals being set up by our partner NGOs. In the next version (which will be out real soon), you will also be able to volunteer for NGOs (both, offline and online) and you will be able to participate in donation drives.
+
+How does redeeming KP work?
++
+So this is how the entire redeeming process of karma points works,.karma points was formed to reward the goodness in people. We want to recognize these change makers. The rewards you can redeem is a small thank you from our team. The more KP you accrue, the more rewards you can get. And it is not just about the rewards. You can also donate your KP to sponsor some other act of goodness (we are currently working on this feature and will launch this soon)
+Steps to redeeming your rewards:
+1. Go to the Redeem section of the app (it is the coloured bag icon on your screen)
+2. You will see a collection of rewards you can unlock basis the KP you have (we are also working to increase our spread so that you can have the rewards you cherish)
+3.You can choose the reward you like. You can redeem the reward in exchange of KP. Different rewards can be unlocked at different amounts of KP.
+4. Once you confirm your selection through an OTP verification, the reward will be unlocked for you.
+We hope you like the rewards :)
+
+What happens after I make a donation?
+-Upon making a donation, your Karma Points (KP) are credited instantly to your account in our app. These points can be redeemed at any time for rewards from your favourite brands that are participating nearby. It’s a rewarding way to track and celebrate your contributions!
+
+How can I track the impact of my donations?-Our platform ensures you can easily track the impact of your donations. Your contributions update the goals tracking page for each charity's goal, showing your impact immediately. This transparency allows you to see the tangible effects of your donations, reinforcing the value of your contributions.
+
+Is there a minimum donation amount?-We believe every contribution counts, regardless of its size. Therefore, there's no minimum donation amount on our platform. This approach enables all individuals to participate and contribute to the causes they care about, fostering a community of inclusivity and generosity.
+
+Are my donations secure?-We take your security seriously. Our platform employs state-of-the-art security technology to safeguard your transactions and personal data. We use Stripe for all transactions which encrypts sensitive data both in transit and at rest and ensures that all financial transactions are encrypted and secure. Your trust is our priority, and we continually update our systems to adhere to the latest security standards.
+
+How can i donate tell me some sources : You can use multiple sources for donations based on your geographic boundations , some of the common ways to donate are using UPI , Wallet options like Paytm and phone pe , card options like credit debit card and net banking also.
+How do you verify NGOs?
++
+Following the process of verifying NGOs at Karma points , Complete transparency of information and operations is the key to earn and maintain trust with all you wonderful donors. That is why there is a rigourous check and on-bording mechanism for the NGOs.
+These checks are of 3 kinds:
+Transparency (checking of the government approved registration certificates, deeds, location & personnel check), Productivity (checking on proper allocation of funds) & Proficiency (checking on the effectiveness of the campaign).
+While we constantly check-up on our NGO partners and continuously evolve our design algorithm to give more visibility to the ones that constantly create meaningful impact, there can be some misses from our end. If you feel that there might be something fishy withan NGO, feel report the Goal to us and we will ensure that we will take strict action against the NGO, if guilty.
+
+What if I don`t want to reveal my identity?
++
+Then you absolutely don`t have to. We value your privacy the most. That is why, it is entirely upto you to reveal you identity while you contribute. We understand that many of our donors want to remain anonymous and we respect that. You can edit your name anytime from your Profile section. You can also choose to not upload your photo on KP.

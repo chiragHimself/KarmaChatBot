@@ -1,0 +1,11 @@
+langchain_core
+langchainhub
+chromadb
+ollama
+python-dotenv
+streamlit
+langchain_community
+fastapi
+requests
+uvicorn[standard]
+
