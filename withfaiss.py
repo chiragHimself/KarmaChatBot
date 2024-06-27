@@ -63,7 +63,7 @@ st.title("Karma Bot (Powered by Phi3)")
 # Load documents and set up the database only once
 documents = load_documents("RagTextFiles")
 split_docs = split_documents(documents)
-embeddings = create_embeddings("llama3")
+embeddings = create_embeddings("phi3")
 db = create_db(split_docs, embeddings)
 
 retriever = db.as_retriever()
