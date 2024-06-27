@@ -2,7 +2,7 @@ langchain_core
 langchain
 langchainhub
 ollama
-chromadb==0.4.22
+faiss-cpu
 python-dotenv
 streamlit
 langchain_community
