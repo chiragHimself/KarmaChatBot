@@ -62,13 +62,13 @@ st.title("Karma Bot (Powered by Phi3)")
 # Load documents and set up the database only once
 documents = load_documents("RagTextFiles")
 split_docs = split_documents(documents)
-embeddings = create_embeddings("llama3")
+embeddings = create_embeddings("phi3")
 db = create_db(split_docs, embeddings)
 
 retriever = db.as_retriever()
 
 # Text input for user query
-query = st.text_input("How may we help?(AI response - waiting time 15-20s)")
+query = st.text_input("How may we help?(AI response - waiting time 5-10s)")
 
 # Button to submit the query
 if st.button("Submit"):
